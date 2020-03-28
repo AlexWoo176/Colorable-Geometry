@@ -13,7 +13,7 @@ public class ColorableTest {
                 iColorable.howToColor();
             }
             else
-                System.out.println(shape + " Not is Square, so can not use how to color!");
+                System.out.println(shape + " Not is Square, so can not use How to Color!");
         }
     }
 }
